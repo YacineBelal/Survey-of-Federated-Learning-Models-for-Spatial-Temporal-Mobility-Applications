@@ -1,0 +1,42 @@
+[submodule "Traffic-Flow-Prediction-Approaches/Grid-based/FedGRU"]
+	path = Traffic-Flow-Prediction-Approaches/Grid-based/FedGRU
+	url = https://github.com/Practicing-Federated-Learning-for-IoT/FedGRU.git
+[submodule "Traffic-Flow-Prediction-Approaches/GNN-based/CNFGNN"]
+	path = Traffic-Flow-Prediction-Approaches/GNN-based/CNFGNN
+	url = https://github.com/mengcz13/KDD2021_CNFGNN.git
+[submodule "Top-N-POI-Recommendation-Approaches/PEPPER"]
+	path = Top-N-POI-Recommendation-Approaches/PEPPER
+	url = https://github.com/YacineBelal/Community-Detection-Attack-against-Collaborative-Learning-based-Recommender-Systems-and-Countermeasu.git
+[submodule "Top-N-POI-Recommendation-Approaches/FedPOIRec"]
+	path = Top-N-POI-Recommendation-Approaches/FedPOIRec
+	url = https://github.com/vperifan/FedPOIRec.git
+[submodule "Other-Approaches/An-efficient-framework-for-clustered-federated-learning"]
+	path = Other-Approaches/An-efficient-framework-for-clustered-federated-learning
+	url = https://github.com/jichan3751/ifca.git
+[submodule "Other-Approaches/Fair-Active-Learning"]
+	path = Other-Approaches/Fair-Active-Learning
+	url = https://github.com/anahideh/FAL--Fair-Active-Learning.git
+[submodule "Other-Approaches/EDEN"]
+	path = Other-Approaches/EDEN
+	url = https://github.com/bkhalfoun/EDEN.git
+[submodule "Traffic-Flow-Prediction-Approaches/Grid-based/BFRT"]
+	path = Traffic-Flow-Prediction-Approaches/Grid-based/BFRT
+	url = https://github.com/hanglearning/BFRT.git
+[submodule "Tools/trackintel"]
+	path = Tools/trackintel
+	url = https://github.com/mie-lab/trackintel.git
+[submodule "Tools/transbigdata"]
+	path = Tools/transbigdata
+	url = https://github.com/ni1o1/transbigdata.git
+[submodule "Tools/osmnx"]
+	path = Tools/osmnx
+	url = https://github.com/gboeing/osmnx.git
+[submodule "Tools/sickit-mobility"]
+	path = Tools/sickit-mobility
+	url = https://github.com/scikit-mobility/scikit-mobility.git
+[submodule "Tools/PTRAIL"]
+	path = Tools/PTRAIL
+	url = https://github.com/YakshHaranwala/PTRAIL.git
+[submodule "Tools/movingpandas"]
+	path = Tools/movingpandas
+	url = https://github.com/movingpandas/movingpandas.git
